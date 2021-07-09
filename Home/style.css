@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+	color:#030303;
+    background-color: #EFD1FF;
+
+	font-family: 'ModeSeven Regular'; 
+	font-size:16px;
+	font-weight:normal;
+	
+
+	line-height:1.6em;
+
+}
+.main-box {
+
+
+    font-family: 'Courier New';
+    height: 5in;
+    width: 5in;
+    color: black;
+
+}
+
+.main-box h1 {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 5%;
+    font-family: 'ModeSeven';
+}
+
+p {
+    font-size: 17px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+input {
+    height: 200px;
+    width: 200px;
+    
+}
+
+input:hover {
+    height: 170px;
+    width: 170px;
+}
