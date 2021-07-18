@@ -57,9 +57,12 @@ function showTime() {
   function addZero(n) {
     return (parseInt(n, 10) < 10 ? '0' : '') + n;
   }
-  
+      
+  function haha() {
+    document.getElementById('pic').src='haha.png';
+  }
   function hover() {
-  document.getElementById('pic').src='jean.png';
+    document.getElementById('pic').src='jean.png';
   }
 
   function out() {
