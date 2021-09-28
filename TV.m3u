@@ -1,0 +1,2444 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:50,Bloomberg TV Asia (720p)
+#EXTVLCOPT:network-caching=1000
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:0,Bloomberg TV Asia Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:0,Cartoon Network Asia (720p)
+#EXTVLCOPT:network-caching=1000
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:80,CCTN 47 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:0,CLTV 36 [Not 24/7]
+#EXTVLCOPT:http-referrer=https://ssh101.com/
+#EXTVLCOPT:network-caching=1000
+https://tna5.bozztv.com/cltv36/index.m3u8
+#EXTINF:30,CNN Philippines (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:99,Disney Channel Asia (720p)
+#EXTVLCOPT:network-caching=1000
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:0,Disney Junior Asia (720p)
+#EXTVLCOPT:network-caching=1000
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+#EXTINF:0,DZRH News TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live
+#EXTINF:0,Fox Movies Asia (Thai) (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:0,Great Commission TV (GCTV) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://45.32.115.103/live/livestream/index.m3u8
+#EXTINF:0,Hope Channel Philippines (720p)
+#EXTVLCOPT:network-caching=1000
+https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8
+#EXTINF:0,INC TV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
+#EXTINF:0,Life TV Asia (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+#EXTINF:0,PEP TV [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/communitytv3/
+#EXTINF:0,Pilipinas HD (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+#EXTINF:0,PTV 4 (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5cr6b9
+#EXTINF:0,Shop TV (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
+#EXTINF:0,SMNI (720p)
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:0,Super Radyo DZBB [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
+#EXTM3U
+#EXTINF:0,US: ABC HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/8191
+#EXTINF:0,US: A&E HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137339
+#EXTINF:0,US: ABC news
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130946
+#EXTINF:0,US: AMC HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137332
+#EXTINF:0,US: Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130904
+#EXTINF:0,US: Animal Planet FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137421
+#EXTINF:0,US: BET HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137447
+#EXTINF:0,US: beIN Sports FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130893
+#EXTINF:0,US: Bloomberg TV HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137420
+#EXTINF:0,US: Bravo HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130926
+#EXTINF:0,US: C-Span 1
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137318
+#EXTINF:0,US: C-Span 2
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137317
+#EXTINF:0,US: AT&T Sportsnet 360 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137315
+#EXTINF:0,US: CBSN
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130944
+#EXTINF:0,US: PBS Kids
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137445
+#EXTINF:0,US: CBS Sports Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137444
+#EXTINF:0,US: CBSN HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130942
+#EXTINF:0,US: CNBC HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137326
+#EXTINF:0,US: CNN News FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130940
+#EXTINF:0,US: CNN News 
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137236
+#EXTINF:0,US: Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137446
+#EXTINF:0,US: CineMax 5Star Max
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137311
+#EXTINF:0,US: CineMax HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137308
+#EXTINF:0,US: Cinemax ActionMax
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130918
+#EXTINF:0,US: Cinemax MoreMax
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137307
+#EXTINF:0,US: Cinemax ThrillerMax
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130917
+#EXTINF:0,US: Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137234
+#EXTINF:0,US: DIY Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137405
+#EXTINF:0,US: OXYGEN HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137404
+#EXTINF:0,US: Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137415
+#EXTINF:0,US: Daystar HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137414
+#EXTINF:0,US: Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137443
+#EXTINF:0,US: Discovery Science HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137410
+#EXTINF:0,US: Discovery Velocity
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137408
+#EXTINF:0,US: Discovery Velocity HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137407
+#EXTINF:0,US: Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137442
+#EXTINF:0,US: Disney XD HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137441
+#EXTINF:0,US: E! Entertainment HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137403
+#EXTINF:0,US: E! Entertainment SD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137440
+#EXTINF:0,US: ESPN 1
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137225
+#EXTINF:0,US: ESPN 1
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137224
+#EXTINF:0,US: ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137223
+#EXTINF:0,US: ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130891
+#EXTINF:0,US: ESPN + HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130892
+#EXTINF:0,US: ESPN NEWS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137324
+#EXTINF:0,US: ESPN UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137221
+#EXTINF:0,US: FX
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137207
+#EXTINF:0,US: FX HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137206
+#EXTINF:0,US: FXM HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137205
+#EXTINF:0,US: FXX HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137204
+#EXTINF:0,US: Fashion TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137220
+#EXTINF:0,US: Fight Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137218
+#EXTINF:0,US: Fight Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137217
+#EXTINF:0,US: Food Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137215
+#EXTINF:0,US: Fox HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130937
+#EXTINF:0,US: Fox News HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137438
+#EXTINF:0,US: Fox Business HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/169918
+#EXTINF:0,US: Fox Soccer Plus HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137395
+#EXTINF:0,US: Fox Sport 1 HD (FS1)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130890
+#EXTINF:0,US: Fox Sport 2 HD (FS2)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130889
+#EXTINF:0,US: Fox Sports 1 HD (FS1)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137437
+#EXTINF:0,US: Fox Sports 2 HD (FS2)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137392
+#EXTINF:0,US: Big Ten Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137390
+#EXTINF:0,US: NBC Golf Channel HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137382
+#EXTINF:0,US: Longhorn Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137381
+#EXTINF:0,US: Fox Sports West Plus HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137380
+#EXTINF:0,US: Olympic Channel HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137378
+#EXTINF:0,US: Tennis Channel
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137375
+#EXTINF:0,US: Fox Sports Wisconsin HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137372
+#EXTINF:0,US: FreeForm FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137210
+#EXTINF:0,US: GRIT HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137201
+#EXTINF:0,US: Game Show Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137200
+#EXTINF:0,US: HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137369
+#EXTINF:0,US: HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137368
+#EXTINF:0,US: HBO Signature HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137366
+#EXTINF:0,US: HBO Zone HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130912
+#EXTINF:0,US: HGTV HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137435
+#EXTINF:0,US: HLN HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137363
+#EXTINF:0,US: Hallmark Channel HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137436
+#EXTINF:0,US: History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137433
+#EXTINF:0,US: Investigation Discovery FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137432
+#EXTINF:0,US: IFC HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137359
+#EXTINF:0,US: Investigation Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137358
+#EXTINF:0,US: Lifetime HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137431
+#EXTINF:0,US: MLB Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137357
+#EXTINF:0,US: MLB Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137429
+#EXTINF:0,US: MSNBC HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137428
+#EXTINF:0,US: MTV Live HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137241
+#EXTINF:0,US: MTV HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137239
+#EXTINF:0,US: NBA TV HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130888
+#EXTINF:0,US: NBA TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137427
+#EXTINF:0,US: NBC HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130935
+#EXTINF:0,US: NBC Sports Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137343
+#EXTINF:0,US: NBC Sports Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137426
+#EXTINF:0,US: NFL Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137256
+#EXTINF:0,US: NFL Now HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137255
+#EXTINF:0,US: NFL Red Zone HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137254
+#EXTINF:0,US: NHL Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137251
+#EXTINF:0,US: National Geographic Wild
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137353
+#EXTINF:0,US: National Geographic
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130900
+#EXTINF:0,US: Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130920
+#EXTINF:0,US: OWN - The Oprah Winfrey Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137278
+#EXTINF:0,US: Outdoor Channel HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137279
+#EXTINF:0,US: PAC-12 Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137305
+#EXTINF:0,US: PBS HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137272
+#EXTINF:0,US: American Heroes Channel HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130898
+#EXTINF:0,US: SEC Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137268
+#EXTINF:0,US: Sundance TV HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137267
+#EXTINF:0,US: Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137269
+#EXTINF:0,US: Showtime HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137322
+#EXTINF:0,US: Showtime 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137302
+#EXTINF:0,US: Hallmark Drama HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137301
+#EXTINF:0,US: Showtime Extreme HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137300
+#EXTINF:0,US: Showtime Showcase HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137299
+#EXTINF:0,US: Paramount Network HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137297
+#EXTINF:0,US: SportsNet One HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130885
+#EXTINF:0,US: SportsNet East HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137296
+#EXTINF:0,US: Starz Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130909
+#EXTINF:0,US: Starz Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137291
+#EXTINF:0,US: Starz Edge HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137290
+#EXTINF:0,US: Starz Encore HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137289
+#EXTINF:0,US: Starz Kids & Family HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137287
+#EXTINF:0,US: SyFy HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130907
+#EXTINF:0,US: TBS HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130932
+#EXTINF:0,US: TLC HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137284
+#EXTINF:0,US: TNT HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130906
+#EXTINF:0,US: Viceland
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130930
+#EXTINF:0,US: TSN 1 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130883
+#EXTINF:0,US: TSN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130882
+#EXTINF:0,US: TSN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130881
+#EXTINF:0,US: TSN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130880
+#EXTINF:0,US: TSN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130879
+#EXTINF:0,US: USA Network FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137247
+#EXTINF:0,US: Univision HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137263
+#EXTINF:0,US: Universal Kids*
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137262
+#EXTINF:0,US: VH1 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137244
+#EXTINF:0,US: WWE HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137341
+#EXTINF:0,US: Willow Cricket HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130878
+#EXTINF:0,US: World Fashion HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/130896
+#EXTINF:0,US: TV Land
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282751
+#EXTINF:0,US: QVC2
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282750
+#EXTINF:0,US: QVC
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282749
+#EXTINF:0,US: CMT HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/171546
+#EXTINF:0,US: THE CW HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/193244
+#EXTINF:0,US: Lifetime Movie Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282748
+#EXTINF:0,US: LOGO HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282747
+#EXTINF:0,US: Great American Country
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282745
+#EXTINF:0,US: RFD TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282743
+#EXTINF:0,US: BET Her
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282742
+#EXTINF:0,US: CW Hula Vista
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282741
+#EXTINF:0,US: CW Tacoma
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282740
+#EXTINF:0,US: CW Jeannette
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282739
+#EXTINF:0,US: CW Sacramento
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282738
+#EXTINF:0,US: CW St. Petersburg
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282737
+#EXTINF:0,US: CW Detroit
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282736
+#EXTINF:0,US: CW Philadelphia
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282735
+#EXTINF:0,US: CW Atlanta
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282734
+#EXTINF:0,US: Mytv New York
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282733
+#EXTINF:0,US: Mytv Orlando
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282732
+#EXTINF:0,US: Mytv Minneapolis
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282731
+#EXTINF:0,US: Mytv Washington
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282730
+#EXTINF:0,US: Mytv Phoenix
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282729
+#EXTINF:0,US: Mytv Houston
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282728
+#EXTINF:0,US: Mytv Dallas-Ft. Worth
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282727
+#EXTINF:0,US: Mytv Los Angeles
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282726
+#EXTINF:0,US: ME TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/362660
+#EXTINF:0,US: Smithsonian Channel
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/362659
+#EXTINF:0,US: Antenna tv
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/362658
+#EXTINF:0,US: COZI TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/362657
+#EXTINF:0,US: TRAVEL Channel East
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282725
+#EXTINF:0,US: Destination America
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282724
+#EXTINF:0,US: insp
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282723
+#EXTINF:0,US: Outside TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282721
+#EXTINF:0,US: MAV TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282719
+#EXTINF:0,US: FM
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282718
+#EXTINF:0,US: Justice Central
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282715
+#EXTINF:0,US: Comedy TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282714
+#EXTINF:0,US: AMG TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282713
+#EXTINF:0,US: Buzzr
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282712
+#EXTINF:0,US: CBN News International
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282711
+#EXTINF:0,US: Cheddar Buisness
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282707
+#EXTINF:0,US: Cheddar News
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282706
+#EXTINF:0,US: So Yummy! 
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282705
+#EXTINF:0,US: Classic Arts Showcase
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282704
+#EXTINF:0,US: CMC
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282703
+#EXTINF:0,US: CONtv
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282702
+#EXTINF:0,US: Court TV HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282701
+#EXTINF:0,US: Docurama
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282699
+#EXTINF:0,US: Dove Channel
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282698
+#EXTINF:0,US: ET Live
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282697
+#EXTINF:0,US: 69 News Philadelphia
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282696
+#EXTINF:0,US: Xcorps TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282695
+#EXTINF:0,US: Z Classic
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282694
+#EXTINF:0,US: Atlanta Channel
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282692
+#EXTINF:0,US: Beach TV - Panama City
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282691
+#EXTINF:0,US: Beach TV - Florida - Alabama
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282690
+#EXTINF:0,US: Beach TV - Key West - Florida Keys
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282689
+#EXTINF:0,US: Beach TV - Myrtle Beach - Grand Strand
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282688
+#EXTINF:0,US: Buffalo TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282684
+#EXTINF:0,US: CT-N TV  - Conneticut
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282683
+#EXTINF:0,US: DABL
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282682
+#EXTINF:0,US: Darcizzle Offshore
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282681
+#EXTINF:0,US: DC Council Channel
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282680
+#EXTINF:0,US: District of Columbia Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282679
+#EXTINF:0,US: EZWay Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282678
+#EXTINF:0,US: Greenbelt TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282675
+#EXTINF:0,US: Greensboro TV Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282674
+#EXTINF:0,US: KEY TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282672
+#EXTINF:0,US: KIRO 7 News
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282671
+#EXTINF:0,US: ABC 20 (KOFY) San Francisco
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282670
+#EXTINF:0,US: KUSI News San Diego'
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282669
+#EXTINF:0,US: Leominster TV Educational
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282668
+#EXTINF:0,US: Leominster TV Government
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282667
+#EXTINF:0,US: Leominster TV Public
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282666
+#EXTINF:0,US: Local Now Philidelphia (D)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282665
+#EXTINF:0,US: LoveWorld USA
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282664
+#EXTINF:0,US: Metro Cable Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282663
+#EXTINF:0,US: Miami TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282662
+#EXTINF:0,US: NO TV - New Orleans Television
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282661
+#EXTINF:0,US: DABL (HD)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282644
+#EXTINF:0,US: DECADES Los Angeles
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282642
+#EXTINF:0,US: BOUNCE TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282641
+#EXTINF:0,US: Heroes - Icons
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282640
+#EXTINF:0,US: PBS 13 (WNETDT) NewYork (Y)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282639
+#EXTINF:0,US: PIX11 (WPIX) New York
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282638
+#EXTINF:0,US: ION 31 (WPXN) NewYork
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282637
+#EXTINF:0,US: MASN
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282636
+#EXTINF:0,US: NATO
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282632
+#EXTINF:0,US: KTVU Plus Oakland
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211850
+#EXTINF:0,US: BBC America HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/266428
+#EXTINF:0,US: CCTV-4 (S)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282631
+#EXTINF:0,US: CCTV-Entertainment
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282630
+#EXTINF:0,US: CCTV-Opera (S)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282629
+#EXTINF:0,US: Phoenix InfoNews (S)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282628
+#EXTINF:0,US: Phoenix North America Chinese Channel (S)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282627
+#EXTINF:0,US: Great Wall Elite
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282626
+#EXTINF:0,US: Great Wall Fresh
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282625
+#EXTINF:0,US: Guangdong Southern TV (S)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282624
+#EXTINF:0,US: Paramount Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282623
+#EXTINF:0,US: CGTN English
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282622
+#EXTINF:0,US: CGTN Espanol
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282621
+#EXTINF:0,US: Epix Drive IN
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282609
+#EXTINF:0,US: HDNet Movies
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282608
+#EXTINF:0,US: PixL
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282605
+#EXTINF:0,US: AHC 
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282604
+#EXTINF:0,US: FYI
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282603
+#EXTINF:0,US: Law - Crime (S)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282602
+#EXTINF:0,US: Eurochannel HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282601
+#EXTINF:0,US: Tastemade (S)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282600
+#EXTINF:0,US: Gusto
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282599
+#EXTINF:0,US: BUZZR (S)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282598
+#EXTINF:0,US: Hollywire (S)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282597
+#EXTINF:0,US: Stingray Nature Escape (S)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282594
+#EXTINF:0,US: AMC Presents
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282592
+#EXTINF:0,US: Telemundo Tucson
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225329
+#EXTINF:0,US: Telemundo San francisco
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225330
+#EXTINF:0,US: Telemundo San Antonio
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225331
+#EXTINF:0,US: Telemundo Phoenix
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225332
+#EXTINF:0,US: Telemundo Philadelphia
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225333
+#EXTINF:0,US: Telemundo New York
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225334
+#EXTINF:0,US: Telemundo Miami
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225335
+#EXTINF:0,US: Telemundo Los Angeles
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225336
+#EXTINF:0,US: Filmrise Classics
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/315510
+#EXTINF:0,US: FilmRise Forensic Files 24/7
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/315508
+#EXTINF:0,US: FilmRise Mysteries 24/7
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/315507
+#EXTINF:0,US: Filmrise Movies
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/315506
+#EXTINF:0,US: FilmRise Sci-Fi
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/315505
+#EXTINF:0,US: Telemundo Las Vegas
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225337
+#EXTINF:0,US: Telemundo Houston
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225338
+#EXTINF:0,US: Telemundo Fresno
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225339
+#EXTINF:0,US: Telemundo Denver
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225340
+#EXTINF:0,US: Telemundo Dallas
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225341
+#EXTINF:0,US: Telemundo Chicago
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225342
+#EXTINF:0,US: Telemundo Boston
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/225343
+#EXTINF:0,US: Telemundo Albuquerque-Santa
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282765
+#EXTINF:0,US: Telemundo Bend
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282764
+#EXTINF:0,US: Telemundo Chico-Redding
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282763
+#EXTINF:0,US: Telemundo Idaho Falls
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282762
+#EXTINF:0,US: Telemundo Lincoln
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282761
+#EXTINF:0,US: Telemundo Medford
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282760
+#EXTINF:0,US: Telemundo Monterey
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282759
+#EXTINF:0,US: Telemundo New Orleans
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282758
+#EXTINF:0,US: Telemundo Oklahoma City
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282757
+#EXTINF:0,US: Telemundo Indio
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282756
+#EXTINF:0,US: Telemundo San Luis Obispo
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282755
+#EXTINF:0,US: Telemundo St. Joseph
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282754
+#EXTINF:0,US: Telemundo Tulsa
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282753
+#EXTINF:0,US: Telemundo Pendleton
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282752
+#EXTINF:0,US: Univision East HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282777
+#EXTINF:0,US: Univision
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282776
+#EXTINF:0,US: Univision Garland
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282774
+#EXTINF:0,US: Univision Miami
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282773
+#EXTINF:0,US: Univision Phoenix
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282772
+#EXTINF:0,US: Univision LosAngeles
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282771
+#EXTINF:0,US: Univision NewYork
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282770
+#EXTINF:0,US: Univision Houston
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282769
+#EXTINF:0,US: Univision Austin
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282768
+#EXTINF:0,US: Univision New Jersey
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282767
+#EXTINF:0,US: Univision Chicago
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282766
+#EXTINF:0,US: Cartoon Network East
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282885
+#EXTINF:0,US: Cartoon Network & Adult Swim
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282884
+#EXTINF:0,US: BabyTV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282883
+#EXTINF:0,US: Baby First
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282882
+#EXTINF:0,US: Ducktv
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282881
+#EXTINF:0,US: Qubo
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282880
+#EXTINF:0,US: Disney XD West
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282879
+#EXTINF:0,US: Disney XD East
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282878
+#EXTINF:0,US: Disney Junior West
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282877
+#EXTINF:0,US: Disney Junior East
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282876
+#EXTINF:0,US: Disney Channel West
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282875
+#EXTINF:0,US: Disney Channel East
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282874
+#EXTINF:0,US: Nicktoons
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282872
+#EXTINF:0,US: Nick JR
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282869
+#EXTINF:0,US: Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282868
+#EXTINF:0,US: TeenNick
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282867
+#EXTINF:0,US: Universal Kids
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282866
+#EXTINF:0,US: Boomerang
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282865
+#EXTINF:0,US: NBC News
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137345
+#EXTINF:0,US: News 12 Brooklyn
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282660
+#EXTINF:0,US: News 12 Connecticut
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282659
+#EXTINF:0,US: News 12 Long Island
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282657
+#EXTINF:0,US: News 12 New Jersey
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282656
+#EXTINF:0,US: News 12 Westchester
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282654
+#EXTINF:0,US: ABC New York HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210548
+#EXTINF:0,US: ABC Atlanta
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211774
+#EXTINF:0,US: ABC Baltimore
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211758
+#EXTINF:0,US: ABC Boston
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211773
+#EXTINF:0,US: ABC Charlotte
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211764
+#EXTINF:0,US: ABC 7 Chicago
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211779
+#EXTINF:0,US: One America News Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/331605
+#EXTINF:0,US: Newsmax
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/331604
+#EXTINF:0,US: ABC Cleveland
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211762
+#EXTINF:0,US: ABC Connecticut
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211775
+#EXTINF:0,US: ABC 8 Dallas
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211770
+#EXTINF:0,US: ABC 7 Denver
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211769
+#EXTINF:0,US: ABC 7 Detroit
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211772
+#EXTINF:0,US: ABC durham
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211778
+#EXTINF:0,US: ABC 30 Fresno
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211776
+#EXTINF:0,US: ABC 13 houston
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211777
+#EXTINF:0,US: ABC Indianapolis
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211761
+#EXTINF:0,US: ABC 9 Kansas City
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211754
+#EXTINF:0,US: ABC Los Angeles
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211783
+#EXTINF:0,US: ABC 10 Miami
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211765
+#EXTINF:0,US: ABC Milwaukee
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211753
+#EXTINF:0,US: ABC Nashville
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211767
+#EXTINF:0,US: ABC Orlando
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211766
+#EXTINF:0,US: ABC Philadelphia
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211781
+#EXTINF:0,US: ABC Phoenix
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211760
+#EXTINF:0,US: ABC Pittsburgh
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211771
+#EXTINF:0,US: ABC Sacramento
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211763
+#EXTINF:0,US: ABC Saint Paul
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211757
+#EXTINF:0,US: ABC Salt lake city
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211756
+#EXTINF:0,US: ABC San Antonio
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211755
+#EXTINF:0,US: ABC San Diego
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211768
+#EXTINF:0,US: ABC San Francisco
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211782
+#EXTINF:0,US: ABC Tampa Bay
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211759
+#EXTINF:0,US: ABC News Digital
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282653
+#EXTINF:0,US: ABC News Digital 2
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282652
+#EXTINF:0,US: ABC News Digital 3
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282651
+#EXTINF:0,US: ABC News Digital 4
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282650
+#EXTINF:0,US: ABC News Digital 5
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282649
+#EXTINF:0,US: ABC News Digital 6
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282648
+#EXTINF:0,US: ABC News Digital 7
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282647
+#EXTINF:0,US: ABC News Digital 8
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282646
+#EXTINF:0,US: ABC News Digital 9
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282645
+#EXTINF:0,US: CGTN News
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/227683
+#EXTINF:0,US: C-Span 3
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/208691
+#EXTINF:0,US: CBS New York HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210550
+#EXTINF:0,US: CBS Baltimore
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211816
+#EXTINF:0,US: CBS Boston
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211815
+#EXTINF:0,US: CBS Charlotte
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211814
+#EXTINF:0,US: CBS Chicago
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211813
+#EXTINF:0,US: CBS Cleveland
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211812
+#EXTINF:0,US: CBS 19 Columbus
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211811
+#EXTINF:0,US: CBS Dallas
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211810
+#EXTINF:0,US: CBS 4 Denver
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211809
+#EXTINF:0,US: CBS 62 Detroit
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211808
+#EXTINF:0,US: CBS Greensboro
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211807
+#EXTINF:0,US: CBS Hartford
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211806
+#EXTINF:0,US: CBS Houston
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211805
+#EXTINF:0,US: CBS 47 Jacksonville
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211804
+#EXTINF:0,US: CBS 5 Kansas City
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211803
+#EXTINF:0,US: CBS Los Angeles
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211802
+#EXTINF:0,US: CBS Miami
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211801
+#EXTINF:0,US: CBS Milwaukee
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211799
+#EXTINF:0,US: CBS Minneapolis
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211800
+#EXTINF:0,US: CBS Nashville
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211798
+#EXTINF:0,US: CBS New Orleans
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211797
+#EXTINF:0,US: CBS New York
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211796
+#EXTINF:0,US: CBS Orlando
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211795
+#EXTINF:0,US: CBS Philadelphia
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211794
+#EXTINF:0,US: CBS 5 Phoenix
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211793
+#EXTINF:0,US: CBS 2 Pittsburgh
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211792
+#EXTINF:0,US: CBS Sacramento
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211791
+#EXTINF:0,US: CBS 5 San Antonio
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211790
+#EXTINF:0,US: CBS San Diego
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211789
+#EXTINF:0,US: CBS San Francisco
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211788
+#EXTINF:0,US: CBS Seattle
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211787
+#EXTINF:0,US: CBS 4 St Louis
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211786
+#EXTINF:0,US: CBS Tampa Bay
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211785
+#EXTINF:0,US: CBS Washington DC
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211784
+#EXTINF:0,US: FOX New York HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210551
+#EXTINF:0,US: FOX Atlanta
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211849
+#EXTINF:0,US: FOX 7 Austin
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211848
+#EXTINF:0,US: FOX Belmont
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211847
+#EXTINF:0,US: FOX 25 Boston
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211846
+#EXTINF:0,US: FOX 32 Chicago
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211845
+#EXTINF:0,US: FOX 8 Cleveland
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211844
+#EXTINF:0,US: FOX 28 Columbus
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211842
+#EXTINF:0,US: FOX Dallas
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211843
+#EXTINF:0,US: FOX Denver
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211841
+#EXTINF:0,US: FOX Hartford
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211839
+#EXTINF:0,US: FOX Houston
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211838
+#EXTINF:0,US: FOX Indianapolis
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211837
+#EXTINF:0,US: FOX 30 Jacksonville
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211836
+#EXTINF:0,US: FOX 4 Kansas City
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211835
+#EXTINF:0,US: FOX 11 Los Angeles
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211834
+#EXTINF:0,US: FOX Miami
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211833
+#EXTINF:0,US: FOX Milwaukee
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211832
+#EXTINF:0,US: FOX 9 Minneapolis
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211831
+#EXTINF:0,US: FOX New Orleans
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211830
+#EXTINF:0,US: FOX New York
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211829
+#EXTINF:0,US: FOX Ocala
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211828
+#EXTINF:0,US: FOX Orlando
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211827
+#EXTINF:0,US: FOX Philadelphia
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211826
+#EXTINF:0,US: FOX 10 Phoenix
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211825
+#EXTINF:0,US: FOX Sacramento
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211824
+#EXTINF:0,US: FOX Salt Lake City
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211823
+#EXTINF:0,US: FOX San Diego
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211822
+#EXTINF:0,US: FOX San Francisco
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211821
+#EXTINF:0,US: FOX Seattle
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211820
+#EXTINF:0,US: FOX St Louis
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211819
+#EXTINF:0,US: FOX Tampa Bay
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211818
+#EXTINF:0,US: FOX Washington DC
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211817
+#EXTINF:0,US: NBC New York HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210549
+#EXTINF:0,US: NBC Atlanta
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211885
+#EXTINF:0,US: NBC Baltimore
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211884
+#EXTINF:0,US: NBC Boston
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211883
+#EXTINF:0,US: NBC Buffalo
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211882
+#EXTINF:0,US: NBC Charlotte
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211881
+#EXTINF:0,US: NBC 5 Chicago
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211880
+#EXTINF:0,US: NBC 5 Cincinnati
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211879
+#EXTINF:0,US: NBC 8 Cleveland
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211878
+#EXTINF:0,US: NBC Dallas
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211877
+#EXTINF:0,US: NBC 9 Denver
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211876
+#EXTINF:0,US: NBC Detroit
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211875
+#EXTINF:0,US: NBC Green Bay
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211874
+#EXTINF:0,US: NBC Hartford
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211873
+#EXTINF:0,US: NBC Houston
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211872
+#EXTINF:0,US: NBC Indianapolis
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211871
+#EXTINF:0,US: NBC Jacksonville
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211870
+#EXTINF:0,US: NBC 41 Kansas City
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211869
+#EXTINF:0,US: NBC Los Angeles
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211868
+#EXTINF:0,US: NBC 6 Miami
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211867
+#EXTINF:0,US: NBC Milwaukee
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211866
+#EXTINF:0,US: NBC Nashville
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211864
+#EXTINF:0,US: NBC New Orleans
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211863
+#EXTINF:0,US: NBC New York
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211862
+#EXTINF:0,US: NBC 10 Philadelphia
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211861
+#EXTINF:0,US: NBC Phoenix
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211860
+#EXTINF:0,US: NBC Pittsburgh
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211859
+#EXTINF:0,US: NBC Portland
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211858
+#EXTINF:0,US: NBC Sacramento
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211856
+#EXTINF:0,US: NBC Salt Lake City
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211855
+#EXTINF:0,US: NBC San Diego
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211854
+#EXTINF:0,US: NBC Seattle
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211853
+#EXTINF:0,US: NBC St Louis
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211852
+#EXTINF:0,US: NBC Washington DC
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/211851
+#EXTINF:0,US: Bloomberg Politics Live Event
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282863
+#EXTINF:0,US: RT News America
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282862
+#EXTINF:0,US: The Weather Channel
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282861
+#EXTINF:0,US: Weather Nation
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282860
+#EXTINF:0,US: NBC News Now FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282859
+#EXTINF:0,US: NBC News Now HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282857
+#EXTINF:0,US: CNN Democratic Presidential Debate
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282854
+#EXTINF:0,US: CBSN Bay Area
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282853
+#EXTINF:0,US: CBSN Boston
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282852
+#EXTINF:0,US: CBSN Chicago
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282851
+#EXTINF:0,US: CBSN Dallas
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282850
+#EXTINF:0,US: CBSN Denver
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282849
+#EXTINF:0,US: CBSN Los Angeles
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282848
+#EXTINF:0,US: CBSN Minnesota
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282847
+#EXTINF:0,US: CBSN New York
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282846
+#EXTINF:0,US: CBSN Philly
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282845
+#EXTINF:0,US: CBSN Pittsburgh
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282844
+#EXTINF:0,US: Nasa TV HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/266427
+#EXTINF:0,US: Animal Planet East
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282591
+#EXTINF:0,US: Animal Planet West
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282590
+#EXTINF:0,US: MTV Classic
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283165
+#EXTINF:0,US: MTV 2
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283164
+#EXTINF:0,US: MTV U
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283157
+#EXTINF:0,US: Nick Music
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283163
+#EXTINF:0,US: BET Jams
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283162
+#EXTINF:0,US: BET SOUL
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283161
+#EXTINF:0,US: BET West
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283160
+#EXTINF:0,US: VH1 East
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283159
+#EXTINF:0,US: Pop TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283158
+#EXTINF:0,US: Trace Urban Afrique FR
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283047
+#EXTINF:0,US: Trace Africa FR
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283046
+#EXTINF:0,US: Trace Urban FR
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283045
+#EXTINF:0,US: Trace Gospel English Speaking Africa
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283044
+#EXTINF:0,US: Trace Gospel South Africa
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283043
+#EXTINF:0,US: Trace Kitoko
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283042
+#EXTINF:0,US: Trace Mizki
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283041
+#EXTINF:0,US: Trace Toca
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283040
+#EXTINF:0,US: Trace Vanilla
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283037
+#EXTINF:0,US: Trace Urban DOM
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283036
+#EXTINF:0,US: Trace Gospel
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283035
+#EXTINF:0,US: Trace Brazuka
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283034
+#EXTINF:0,US: Trace Latina
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283033
+#EXTINF:0,US: Trace Urban South Africa
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283032
+#EXTINF:0,US: Trace Urban INTER
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283031
+#EXTINF:0,US: Trace Jama
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283030
+#EXTINF:0,US: Trace Muzika
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283029
+#EXTINF:0,US: Trace Ayiti
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283028
+#EXTINF:0,US: Trace Naija
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283027
+#EXTINF:0,US: SHO×BET
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283371
+#EXTINF:0,US: Showtime Family Zone (East)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283369
+#EXTINF:0,US: Showtime Familyzone (West)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283368
+#EXTINF:0,US: Showtime Next (East)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283367
+#EXTINF:0,US: Showtime Next (West)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283366
+#EXTINF:0,US: Showtime Women (West)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283364
+#EXTINF:0,US: EPIX HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283354
+#EXTINF:0,US: EPIX 2
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283353
+#EXTINF:0,US: Epix Hits
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283352
+#EXTINF:0,US: IndiePlex (East)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283351
+#EXTINF:0,US: MoviePlex (East)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283349
+#EXTINF:0,US: MoviePlex (West)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283348
+#EXTINF:0,US: RetroPlex (West)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283346
+#EXTINF:0,US: SHORTS TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283374
+#EXTINF:0,US: MovieMax HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283344
+#EXTINF:0,US: MoreMax FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283343
+#EXTINF:0,US: VN S Channel
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283339
+#EXTINF:0,US: MGM
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283338
+#EXTINF:0,US: REELZ
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283335
+#EXTINF:0,US: Sony Movies
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283333
+#EXTINF:0,US: HBO 2 (East)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283361
+#EXTINF:0,US: HBO 2 (West)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283360
+#EXTINF:0,US: HBO Zone (West)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283355
+#EXTINF:0,US: HBO  (East)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283363
+#EXTINF:0,US: HBO  (West)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283362
+#EXTINF:0,US: HBO Comedy (East)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283359
+#EXTINF:0,US: HBO Comedy (West)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283358
+#EXTINF:0,US: HBO Signature (West)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/283356
+#EXTINF:0,US: Hallmark Movies & Mysteries HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/198470
+#EXTINF:0,US: Starz East
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282841
+#EXTINF:0,US: Starz Encore Westerns
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282840
+#EXTINF:0,US: Starz Encore West
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282839
+#EXTINF:0,US: Starz Encore Suspense
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282838
+#EXTINF:0,US: Starz Encore Family
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282837
+#EXTINF:0,US: Starz Encore Classic
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282836
+#EXTINF:0,US: Starz Encore Black
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282835
+#EXTINF:0,US: ---- Empire Cinema -----
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/234111
+#EXTINF:0,US: Empire Cinema 4K
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/234112
+#EXTINF:0,US: Empire Cinema Adventure FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/234121
+#EXTINF:0,US: Empire Cinema Fantasy FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/234122
+#EXTINF:0,US: Empire Cinema Thriller FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/234126
+#EXTINF:0,US: Empire Cinema History FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/234127
+#EXTINF:0,US: Empire Cinema Hindi FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/234133
+#EXTINF:0,US: ESPN 1 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/280583
+#EXTINF:0,US: ESPN 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/280582
+#EXTINF:0,US: ESPN Deportes FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/227180
+#EXTINF:0,US: Eleven Sports FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/202404
+#EXTINF:0,US: Fox Sports Arizona HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210517
+#EXTINF:0,US: Fox Sports South Carolina HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210519
+#EXTINF:0,US: Fox Sports Cincinnati HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210521
+#EXTINF:0,US: Fox Sports Detroit HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210523
+#EXTINF:0,US: Fox Sports Florida HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210524
+#EXTINF:0,US: Fox Sports Indiana HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210525
+#EXTINF:0,US: Fox Sports MidWest HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210527
+#EXTINF:0,US: Fox Sports Net HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210528
+#EXTINF:0,US: Fox Sports North HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210529
+#EXTINF:0,US: Fox Sports Ohio HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210530
+#EXTINF:0,US: Fox Sports Plus HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210532
+#EXTINF:0,US: Fox Sports Prime Ticket HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210533
+#EXTINF:0,US: Fox Sports San Diego HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210534
+#EXTINF:0,US: Fox Sports SouthEast HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210535
+#EXTINF:0,US: Fox Sports Sportstime Ohio HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210538
+#EXTINF:0,US: Fox Sports Sun HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210539
+#EXTINF:0,US: Fox Sports Tennessee HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210540
+#EXTINF:0,US: Fox Sports West HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210541
+#EXTINF:0,US: MLB HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347093
+#EXTINF:0,US: MLB 02 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347092
+#EXTINF:0,US: MLB 03 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347091
+#EXTINF:0,US: MLB 04 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347090
+#EXTINF:0,US: MLB 05 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347089
+#EXTINF:0,US: MLB 06 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347088
+#EXTINF:0,US: MLB 07 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347087
+#EXTINF:0,US: MLB 08 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347086
+#EXTINF:0,US: MLB 09 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347085
+#EXTINF:0,US: MLB 10 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347084
+#EXTINF:0,US: MLB 11 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347083
+#EXTINF:0,US: MLB 12 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347082
+#EXTINF:0,US: MLB 13 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347081
+#EXTINF:0,US: MLB 14 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347080
+#EXTINF:0,US: MLB 15 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347079
+#EXTINF:0,US: MLB STRIKE ZONE
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379671
+#EXTINF:0,US: MLB: PHILIADELPHIA PHILLIES
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379670
+#EXTINF:0,US: MLB: BOSTON RED SOX
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379669
+#EXTINF:0,US: MLB: NEW YORK YANKEES
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379668
+#EXTINF:0,US: MLB: LOS ANGELES DODGERS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379667
+#EXTINF:0,US: MLB: LOS ANGELES ANGELS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379666
+#EXTINF:0,US: MLB: NEW YORK METS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379665
+#EXTINF:0,US: MLB: PITTSBURGH PIRATES
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379664
+#EXTINF:0,US: MLB: CHICAGO CUBS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379663
+#EXTINF:0,US: MLB: CHICAGO WHITE SOX
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379662
+#EXTINF:0,US: MLB: SAN FRANCISCO GIANTS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379661
+#EXTINF:0,US: MLB: ST LOUIS CARDINALS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379660
+#EXTINF:0,US: MLB: TAMPA BAY RAYS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379659
+#EXTINF:0,US: MLB: MINNESOTA TWINS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379658
+#EXTINF:0,US: MLB: SAN DIEGO PADRES
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379657
+#EXTINF:0,US: MLB: ARIZONA DIAMONDBACKS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379656
+#EXTINF:0,US: MLB: MILWAUKEE BREWERS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379655
+#EXTINF:0,US: MLB: KANSAS CITY ROYALS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379654
+#EXTINF:0,US: MLB: CINCINNATI REDS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379653
+#EXTINF:0,US: MLB: OAKLAND ATHLETICS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379652
+#EXTINF:0,US: MLB: COLORADO ROCKIES
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379651
+#EXTINF:0,US: MLB: DETROIT TIGERS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379650
+#EXTINF:0,US: MLB: ATLANTA BRAVES
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379649
+#EXTINF:0,US: MLB: CLEVELAND INDIANS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379648
+#EXTINF:0,US: MLB: HOUSTON ASTROS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379647
+#EXTINF:0,US: MLB: SEATTLE MARINERS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379646
+#EXTINF:0,US: MLB: TEXAS RANGERS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379645
+#EXTINF:0,US: MLB: MIAMI MARLINS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379644
+#EXTINF:0,US: MLB: TORONTO BLUE JAYS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379643
+#EXTINF:0,US: MLB: WASHINGTON NATIONALS
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379642
+#EXTINF:0,US: MLB: BALTIMORE ORIOLES
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379641
+#EXTINF:0,US: NHL GAME 01 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347078
+#EXTINF:0,US: NHL GAME 02 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347077
+#EXTINF:0,US: NHL GAME 03 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347076
+#EXTINF:0,US: NHL GAME 04 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347075
+#EXTINF:0,US: NHL GAME 05 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347074
+#EXTINF:0,US: NHL GAME 06 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347073
+#EXTINF:0,US: NHL GAME 07 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347072
+#EXTINF:0,US: NHL GAME 08 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347071
+#EXTINF:0,US: NHL GAME 09 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347070
+#EXTINF:0,US: NHL GAME 10 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347069
+#EXTINF:0,US: NHL GAME 11 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347068
+#EXTINF:0,US: NHL GAME 12 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347067
+#EXTINF:0,US: NHL GAME 13 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347066
+#EXTINF:0,US: NHL GAME 14 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347065
+#EXTINF:0,US: NHL GAME 15 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347064
+#EXTINF:0,US: NFL GAME 01 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347063
+#EXTINF:0,US: NFL GAME 02 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347062
+#EXTINF:0,US: NFL GAME 03 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347061
+#EXTINF:0,US: NFL GAME 04 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347060
+#EXTINF:0,US: NFL GAME 05 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347059
+#EXTINF:0,US: NFL GAME 06 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347058
+#EXTINF:0,US: NFL GAME 07 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347057
+#EXTINF:0,US: NFL GAME 08 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347056
+#EXTINF:0,US: NFL GAME 09 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347055
+#EXTINF:0,US: NFL GAME 10 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347054
+#EXTINF:0,US: NFL GAME 11 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347053
+#EXTINF:0,US: NFL GAME 12 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347052
+#EXTINF:0,US: NFL GAME 13 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347051
+#EXTINF:0,US: NFL GAME 14 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347050
+#EXTINF:0,US: NFL GAME 15 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347049
+#EXTINF:0,US: NFL Gamepass 16
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/379672
+#EXTINF:0,US: NBA LP 01 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347048
+#EXTINF:0,US: NBA LP 02 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347047
+#EXTINF:0,US: NBA LP 03 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347046
+#EXTINF:0,US: NBA LP 04 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347045
+#EXTINF:0,US: NBA LP 05 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347044
+#EXTINF:0,US: NBA LP 06 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347043
+#EXTINF:0,US: NBA LP 07 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347042
+#EXTINF:0,US: NBA LP 08 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347041
+#EXTINF:0,US: NBA LP 09 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347040
+#EXTINF:0,US: NBA LP 10 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347039
+#EXTINF:0,US: NBA LP 11 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347038
+#EXTINF:0,US: NBA LP 12 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347037
+#EXTINF:0,US: NBA LP 13 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347036
+#EXTINF:0,US: NBA LP 14 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347035
+#EXTINF:0,US: NBA LP 15 HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/347034
+#EXTINF:0,US: NBA 1
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337319
+#EXTINF:0,US: NBA 2
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337318
+#EXTINF:0,US: NBA 3
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337317
+#EXTINF:0,US: NBA 4
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337316
+#EXTINF:0,US: NBA 5
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337315
+#EXTINF:0,US: NBA 6
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337314
+#EXTINF:0,US: NBA 7
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337313
+#EXTINF:0,US: NBA 8
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337312
+#EXTINF:0,US: NBA 9
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337311
+#EXTINF:0,US: NBA 10
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337310
+#EXTINF:0,US: NBA 12
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337309
+#EXTINF:0,US: NBA 13
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337308
+#EXTINF:0,US: NBA 14
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337307
+#EXTINF:0,US: NBA 15
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/337306
+#EXTINF:0,US: NBA TEAMS Atlanta Hawks UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346148
+#EXTINF:0,US: NBA TEAMS Boston Celtics HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346147
+#EXTINF:0,US: NBA TEAMS Brooklyn Nets UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346146
+#EXTINF:0,US: NBA TEAMS Charlotte Hornets UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346145
+#EXTINF:0,US: NBA TEAMS Chicago Bulls UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346144
+#EXTINF:0,US: NBA TEAMS Cleveland Cavaliers UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346143
+#EXTINF:0,US: NBA TEAMS Dallas Mavericks UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346142
+#EXTINF:0,US: NBA TEAMS Denver Nuggets HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346141
+#EXTINF:0,US: NBA TEAMS Detroit Pistons UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346140
+#EXTINF:0,US: NBA TEAMS Golden State Warriors UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346139
+#EXTINF:0,US: NBA TEAMS Houston Rockets HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346138
+#EXTINF:0,US: NBA TEAMS Indiana Pacers UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346137
+#EXTINF:0,US: NBA TEAMS Los Angeles Clippers UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346136
+#EXTINF:0,US: NBA TEAMS Los Angeles Lakers UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346135
+#EXTINF:0,US: NBA TEAMS Memphis Grizzlies UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346134
+#EXTINF:0,US: NBA TEAMS Miami Heat UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346133
+#EXTINF:0,US: NBA TEAMS Milwaukee Bucks HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346132
+#EXTINF:0,US: NBA TEAMS Minnesota Timberwolves UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346131
+#EXTINF:0,US: NBA TEAMS New Orleans Pelicans UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346130
+#EXTINF:0,US: NBA TEAMS New York Knicks UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346129
+#EXTINF:0,US: NBA TEAMS Oklahoma City Thunder UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346128
+#EXTINF:0,US: NBA TEAMS Orlando Magic UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346127
+#EXTINF:0,US: NBA TEAMS Philadelphia 76ers UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346126
+#EXTINF:0,US: NBA TEAMS Phoenix Suns UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346125
+#EXTINF:0,US: NBA TEAMS Portland Trail Blazers UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346124
+#EXTINF:0,US: NBA TEAMS Sacramento Kings HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346123
+#EXTINF:0,US: NBA TEAMS San Antonio Spurs UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346122
+#EXTINF:0,US: NBA TEAMS Toronto Raptors HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346121
+#EXTINF:0,US: NBA TEAMS Utah Jazz UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346120
+#EXTINF:0,US: NBA TEAMS Washington Wizards UHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/346119
+#EXTINF:0,US: NBC Sports Bay Arena HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/183212
+#EXTINF:0,US: NBC Sports Boston HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/183210
+#EXTINF:0,US: NBC Sports California HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/183209
+#EXTINF:0,US: NBC Sports Chicago HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/183208
+#EXTINF:0,US: PAC-12 Arizona HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210543
+#EXTINF:0,US: PAC-12 Bay Area HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210547
+#EXTINF:0,US: PAC-12 Los Angeles HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210544
+#EXTINF:0,US: PAC-12 Oregon HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210545
+#EXTINF:0,US: PAC-12 Washington HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/210546
+#EXTINF:0,US: Ride TV
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282610
+#EXTINF:0,US: Stadium
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/202438
+#EXTINF:0,US: Stadium 1
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/202437
+#EXTINF:0,US: Stadium 2
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/202436
+#EXTINF:0,US: Stadium 3
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/202435
+#EXTINF:0,US: Bek Sports East
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282687
+#EXTINF:0,US: Bek Sports West
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282686
+#EXTINF:0,US: Tennis Channel (A)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358544
+#EXTINF:0,US: Tennis Channel (F)
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358543
+#EXTINF:0,US: Tennis Channel Plus 3
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358540
+#EXTINF:0,US: Tennis Channel Plus 4
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358539
+#EXTINF:0,US: Tennis Channel Plus 5
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358538
+#EXTINF:0,US: Tennis Channel Plus 6
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358537
+#EXTINF:0,US: Tennis Channel Plus 7
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358536
+#EXTINF:0,US: Tennis Channel Plus 8
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358535
+#EXTINF:0,US: Tennis Channel Plus 9
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358534
+#EXTINF:0,US: Tennis Plus Classic
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358533
+#EXTINF:0,US: Tennis Channel Plus 10
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358532
+#EXTINF:0,US: Tennis Channel Plus 11
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358531
+#EXTINF:0,US: Tennis Channel Plus 12
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358530
+#EXTINF:0,US: Tennis Channel Plus 13
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358529
+#EXTINF:0,US: Tennis Channel Plus 14
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/358528
+#EXTINF:0,US: ACC Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/202448
+#EXTINF:0,US: beIN Sports FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/202458
+#EXTINF:0,US: beIN Sports 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/202457
+#EXTINF:0,US: beIN Sports 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/202455
+#EXTINF:0,US: beIN Sports 5 FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/202454
+#EXTINF:0,US: beIN Sports 6 FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/202453
+#EXTINF:0,US: beIN Sports 7 FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/202452
+#EXTINF:0,US: beIN Sports 8 FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/202451
+#EXTINF:0,US: Sportsman Channel
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282830
+#EXTINF:0,US: MSG 2 Plus
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282829
+#EXTINF:0,US: MSG 2
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282828
+#EXTINF:0,US: MSG
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282827
+#EXTINF:0,US: MSG Plus
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282826
+#EXTINF:0,US: MASN 2
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282635
+#EXTINF:0,US: NESN
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282634
+#EXTINF:0,US: NESN+
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282633
+#EXTINF:0,US: BTN 4
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282825
+#EXTINF:0,US: BTN 3
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282824
+#EXTINF:0,US: BTN 2
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282823
+#EXTINF:0,US: FNTSY Sports Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282822
+#EXTINF:0,US: VSiN
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282821
+#EXTINF:0,US: TVG Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282820
+#EXTINF:0,US: TVG2 Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282819
+#EXTINF:0,US: Pursuit Channel
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282818
+#EXTINF:0,US: Tennis Channel Plus 1
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282799
+#EXTINF:0,US: Tennis Channel Plus 2
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282798
+#EXTINF:0,US: Altitude Sports HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282797
+#EXTINF:0,US: BeIN Sports Xtra HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282796
+#EXTINF:0,US: Spectrum SportsNet LA Dodgers FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282794
+#EXTINF:0,US: Spectrum SportsNet LA Dodgers HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282793
+#EXTINF:0,US: Spectrum SportsNet Lakers FHD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282792
+#EXTINF:0,US: Spectrum SportsNet Lakers HD
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282791
+#EXTINF:0,US: PPV BOXING
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282790
+#EXTINF:0,US: PPV 1 EN
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282789
+#EXTINF:0,US: PPV 1 Spanish
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282788
+#EXTINF:0,US: PPV 2 EN
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282787
+#EXTINF:0,US: PPV 2 Spanish
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282786
+#EXTINF:0,US: PPV 3 EN
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282785
+#EXTINF:0,US: PPV 3 Spanish
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282784
+#EXTINF:0,US: PPV 4 EN
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282783
+#EXTINF:0,US: PPV 4 Spanish
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282782
+#EXTINF:0,US: PPV 5 EN
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282781
+#EXTINF:0,US: PPV 5 Spanish
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282780
+#EXTINF:0,US: TVJ Sports Network
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282778
+#EXTINF:0,US: TVJ
+#EXTVLCOPT:network-caching=1000
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/282779
